@@ -1,0 +1,21 @@
+[submodule "modules/MMM-WiFiPassword"]
+	path = modules/MMM-WiFiPassword
+	url = git@github.com:TeraTech/MMM-WiFiPassword.git
+[submodule "modules/MMM-pihole-stats"]
+	path = modules/MMM-pihole-stats
+	url = git@github.com:sheyabernstein/MMM-pihole-stats.git
+[submodule "modules/DailyXKCD"]
+	path = modules/DailyXKCD
+	url = git@github.com:Blastitt/DailyXKCD.git
+[submodule "modules/MMM-Facial-Recognition"]
+	path = modules/MMM-Facial-Recognition
+	url = git@github.com:paviro/MMM-Facial-Recognition.git
+[submodule "modules/MMM-MPD"]
+	path = modules/MMM-MPD
+	url = git@github.com:timjong93/MMM-MPD.git
+[submodule "modules/MMM-DWD-Pollen"]
+	path = modules/MMM-DWD-Pollen
+	url = git@github.com:carstendirks/MMM-DWD-Pollen.git
+[submodule "modules/MMM-NetworkConnection"]
+	path = modules/MMM-NetworkConnection
+	url = git@github.com:slametps/MMM-NetworkConnection.git
