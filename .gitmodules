@@ -19,3 +19,6 @@
 [submodule "modules/MMM-NetworkConnection"]
 	path = modules/MMM-NetworkConnection
 	url = git@github.com:slametps/MMM-NetworkConnection.git
+[submodule "modules/MMM-JsonTable"]
+	path = modules/MMM-JsonTable
+	url = git@github.com:timdows/MMM-JsonTable.git
